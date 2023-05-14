@@ -1,2 +1,3 @@
 # trip-maker-node
-npm i, working with the cmd or the terminal
+npm i, node trip-maker.js
+working with the cmd or the terminal
